@@ -1,0 +1,25 @@
+.passWordsList {
+  list-style: none;
+  padding: 10px;
+}
+.passWordsListItem {
+  border: 1px solid #b6c3ca;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.firstLetter {
+  font-size: 20px;
+  font-family: 'roboto';
+}
+.btn-delete {
+  background-color: transparent;
+  border: none;
+}
+.delete-img {
+  height: 30px;
+}
+.initialClassName {
+  border-radius: 50px;
+}
